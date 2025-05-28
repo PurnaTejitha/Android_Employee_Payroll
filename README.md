@@ -47,12 +47,6 @@ Managing payroll manually can be time-consuming and error-prone. This app stream
 
 ---
 
-## 📸 Screenshots
-
-> 📷 _Screenshots coming soon_  
-> You can include UI images like login page, admin dashboard, and employee salary view here.
-
----
 
 ## 🚀 Getting Started
 
